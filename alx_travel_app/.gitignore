@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+db.sqlite3
+
+# Media and static files
+/media
+/staticfiles
+/static
+
+# Local environment settings
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Virtual environment
+venv/
+env/
+ENV/
+*.egg-info/
+.eggs/
+
+# Node modules (if using npm/yarn for frontend)
+node_modules/
+
+# Coverage reports
+htmlcov/
+.coverage
+*.cover
+*.py,cover
+
+# Testing
+.tox/
+.nox/
+*.test
+*.tests
+
+# Deployment
+*.pid
+
+# Build files
+build/
+dist/
+*.egg
+*.manifest
+*.spec
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
